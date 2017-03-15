@@ -9,3 +9,7 @@ p {
 .First {
  font-size: 80px; 
 }
+
+.Nav-Bar {
+ display: inline; 
+}
