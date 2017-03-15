@@ -10,6 +10,8 @@ p {
  font-size: 80px; 
 }
 
-.Nav-Bar {
+.Nav {
  display: inline; 
+ margin: 0;
+ padding: 0; 
 }
