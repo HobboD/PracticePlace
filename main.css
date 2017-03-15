@@ -10,7 +10,7 @@ p {
  font-size: 80px; 
 }
 
-.Nav {
+.Nav li {
  display: inline; 
  margin: 0;
  padding: 0; 
