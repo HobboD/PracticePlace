@@ -1,4 +1,7 @@
-
+body {
+ background-image: url(http://www.drodd.com/images15/landscapes15.jpg);
+ background-attachment: scroll;
+}
 
 p {
  font: 14px Arial; 
