@@ -6,9 +6,7 @@
  background-image: url("http://www.drodd.com/images15/landscapes15.jpg");
  background-attachment: scroll;
  background-repeat: no-repeat;
- width: 100%;
- top: 0;
- left: 0; 
+ background-size: 1920px 1080px; 
 }
 
 body {
