@@ -7,6 +7,10 @@
  left: 0; 
 }
 
+body {
+ width = 100%;
+}
+
 p {
  font: 14px Arial;
  color: orange;  
