@@ -5,7 +5,8 @@ body {
 }
 
 p {
- font: 14px Arial; 
+ font: 14px Arial;
+ color: orange;  
 }
 
 .First {
