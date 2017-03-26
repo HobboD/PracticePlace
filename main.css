@@ -10,7 +10,12 @@
 }
 
 #LiGallery {
- font: 25px Times New Roman; 
+ font: 35px Times New Roman; 
+ color: white;
+}
+
+#Navli {
+ font: 25px Times New Roman;
  color: white;
 }
 
