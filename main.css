@@ -21,6 +21,7 @@ body {
 p {
  font: 14px Arial;
  color: orange;  
+ text-align: center;
 }
 
 .First {
