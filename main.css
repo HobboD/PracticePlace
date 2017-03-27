@@ -35,3 +35,8 @@ p {
  color: white;
  font: 28px Times New Roman; 
 }
+
+h2 {
+ margin-left: auto;
+ margin-right: auto;
+}
