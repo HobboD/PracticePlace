@@ -2,7 +2,7 @@
  border: 1px solid red; 
 }*/
 
-#bg-image {
+#"bg-image" {
  background-image: url("PracticePlace/194.jpg");
  background-attachment: scroll;
  background-repeat: no-repeat;
