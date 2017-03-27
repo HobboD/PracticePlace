@@ -1,6 +1,6 @@
-/** {
+* {
  border: 1px solid red; 
-}*/
+}
 
 #bgimage {
  background-image: url("PracticePlace/194.jpg");
@@ -21,6 +21,7 @@ body {
 p {
  font: 30px Arial;
  color: orange;  
+ margin: -20px 0px 10px 0px;
  padding: -10px 0px 5px 0px;
  text-align: center;
 }
