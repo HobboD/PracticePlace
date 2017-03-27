@@ -14,11 +14,6 @@
  color: white;
 }
 
-.Navli {
- font: 25px Times New Roman;
- color: white;
-}
-
 body {
  width = 100%;
 }
@@ -37,4 +32,6 @@ p {
  display: inline; 
  margin: 0;
  padding: 0; 
+ color: white;
+ font: 28px Times New Roman; 
 }
